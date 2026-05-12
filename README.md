@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mohamed  
 
-<!--
-**mkurdi26/mkurdi26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Technical Support Engineer III @ GitHub** 
 
-Here are some ideas to get you started:
+I'm Passionate about automation and problem solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech & Focus Areas
+
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/25d93636-ecce-4e3b-b3bd-180541670dd8" />   
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/6caa537f-0833-4d3c-b33c-d497eab944ba" />   
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/c993928f-571a-4a55-aa10-91d32881f533" />
+
+
+🔍 I specialize in:
+- ⚙️ CI/CD automation with **GitHub Actions**  
+- 🏢 GitHub Enterprise Cloud & Server  
+- 🛠️ Troubleshooting complex environments  
